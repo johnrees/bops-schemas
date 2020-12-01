@@ -15,7 +15,7 @@
 		"address_2": "Southwark",
 		"address_3": null,
 		"town": "London",
-		"postcode": "SE16 3RQ",
+		"postcode": "SE16 3RQ"
 	},
 	"plans": {
 		"existing_plan": "http://xxxxxxxx.s3-website.eu-west-2.amazonaws.com/xxxxxxx.jpg",
